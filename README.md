@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Shubham</h1>
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
-<p align="center" <img src="programming.gif" alt="Shubham Programming" height="200" /> </p>
+<p align="center"> <img src="programming.gif" alt="Shubham Programming" height="200" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7350&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7350" /> </p>
 
