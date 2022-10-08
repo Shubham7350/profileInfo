@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, My name is Shubham</h1>
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7350&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7350" /> </p>
+![Profile views](https://gpvc.arturio.dev/Shubham7350)  
 
 
 <p align="left"> <a href="https://twitter.com/twtshubz" target="blank"><img src="https://img.shields.io/twitter/follow/twtshubz?logo=twitter&style=for-the-badge" alt="twtshubz" /></a> </p>
