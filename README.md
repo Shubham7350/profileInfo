@@ -19,15 +19,19 @@
 
 - ⚡ Fun fact **Making me a friend will be value addition in your life.**
 
-<h3 align="left">Connect with me through Linktree</h3>
-<p align="left">
+<h3 align="center">Let's Connect</h3>
+<p align="center">
 <a href="https://twitter.com/twtshubz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtshubz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-ingole" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shubham-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-ingole" height="30" width="40" /></a>
 <a href="https://instagram.com/ishubham___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishubham___" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Coding Profiles</h3>
+<p align="center">
 <a href="https://www.codechef.com/users/godfather20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="godfather20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishubham158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishubham158" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubham7350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham7350" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shubham-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-ingole" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
