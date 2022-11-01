@@ -62,7 +62,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  
  </p> 
   <h3 align="left">Badges</h3>
-  [![@shubham's Holopin board](https://holopin.me/shubham)](https://holopin.io/@shubham)  
+  [![@shubham's Holopin board](https://holopin.me/shubham)](https://holopin.io/@shubham) 
 <h3 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham7350&show_icons=true&locale=en&layout=compact" alt="shubham7350" /></p>
 
