@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, My name is Shubham</h1>
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
 
+<p align="center">
+  <img src="https://github.com/Shubham7350/Shubham7350/blob/main/development.gif" alt="development gif" />
+</p>
 
 - 🌱 I’m currently Doing **Projects** and looking for take **Experiances**
 
-- 👨‍💻Let's Connect [[https://linktr.ee/shubhamingole](https://ishubham.netlify.app/)]
+- 👨‍💻Let's Connect [[https://ishubham.netlify.app/](https://ishubham.netlify.app/)]
 
 - 💬 Ask me about **JavaScript, C++, DSA, Nodejs, Reactjs** 
 
