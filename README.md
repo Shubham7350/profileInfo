@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, My name is Shubham</h1>
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
 
-![](https://komarev.com/ghpvc/?username=Shubham7350&color=dc143c) 
 
+- 🌱 I’m currently Doing **Projects** and looking for take **Experiances**
 
-<p align="left"> <a href="https://twitter.com/twtshubz" target="blank"><img src="https://img.shields.io/twitter/follow/twtshubz?logo=twitter&style=for-the-badge" alt="twtshubz" /></a> </p>
+- 👨‍💻Let's Connect [[https://linktr.ee/shubhamingole](https://ishubham.netlify.app/)]
 
-- 🌱 I’m currently learning **MERN Stack and DSA in C++**
-
-- 👨‍💻Let's Connect [https://linktr.ee/shubhamingole](https://linktr.ee/shubhamingole)
-
-- 💬 Ask me about **JavaScript, C++, DSA, Nodejs**
-
-- 📫 How to reach me **ishubham158@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HNufxW0ogKHmFtrUzHda5u5DutorEAmV/view?usp=sharing](https://drive.google.com/file/d/1HNufxW0ogKHmFtrUzHda5u5DutorEAmV/view?usp=sharing)
+- 💬 Ask me about **JavaScript, C++, DSA, Nodejs, Reactjs** 
 
 - ⚡ Fun fact **Making me a friend will be great value addition in your life.**
 
@@ -60,11 +52,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  
- </p> 
-  <h3 align="left">Badges</h3>
-  [![@shubham's Holopin board](https://holopin.me/shubham)](https://holopin.io/@shubham) 
-<h3 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham7350&show_icons=true&locale=en&layout=compact" alt="shubham7350" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham7350&show_icons=true&locale=en" alt="shubham7350" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham7350" alt="shubham7350" /></a> </p>
+ </p>
