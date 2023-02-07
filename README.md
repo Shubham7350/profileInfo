@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
 
 <p align="center">
-  <img src="https://github.com/Shubham7350/Shubham7350/blob/main/development.gif" alt="development gif" width="500px" />
+  <img src="https://github.com/Shubham7350/Shubham7350/blob/main/developement.gif" alt="development gif" />
 </p>
 
 <h3 align="center">Let's Connect</h3>
