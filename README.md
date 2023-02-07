@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full-Stack developer and also a C++ lover.</h3>
 
 <p align="center">
-  <img src="https://github.com/Shubham7350/Shubham7350/blob/main/developement.gif" alt="development gif" />
+  <img src="https://github.com/Shubham7350/Shubham7350/blob/main/development.gif" alt="development gif" />
 </p>
 
 <h3 align="center">Let's Connect</h3>
@@ -13,7 +13,7 @@
 **About Me**
 - 🌱 I’m currently Doing **Projects** and looking for take **Experiances**
 
-- 👨‍💻Let's Connect [[https://ishubham.netlify.app/](https://ishubham.netlify.app/)]
+- 👨‍💻Let's Connect [[https://shubhamingole.netlify.app/](https://shubhamingole.netlify.app/)]
 
 - 💬 Ask me about **JavaScript, C++, DSA, Nodejs, Reactjs** 
 
