@@ -10,10 +10,10 @@
 <a href="https://linkedin.com/in/shubham-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-ingole" height="30" width="40" /></a>
 <a href="https://twitter.com/twtshubz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtshubz" height="30" width="40" /></a>
 </p>
-**About Me**
-- 🌱 I’m currently Doing **Projects** and looking for take **Experiances**
+<h3 align="left">About Me</h3>
+- 🌱 I’m currently Doing Projects and looking for the Experiances
 
-- 👨‍💻Let's Connect [[https://shubhamingole.netlify.app/](https://shubhamingole.netlify.app/)]
+- 👨‍💻 Know me here [https://shubhamingole.me/](https://shubhamingole.me/)
 
 - 💬 Ask me about **JavaScript, C++, DSA, Nodejs, Reactjs** 
 
