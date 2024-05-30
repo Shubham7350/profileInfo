@@ -14,5 +14,5 @@
 - Open to work with 💖 **JavaScript, TypeScript, React JS, Node.js, and C++** 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngoleShubham&langs_count=3&theme=radical) --->
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngoleShubham&show_icons=true&theme=radical)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=i9shubham&show_icons=true&theme=radical)
 
