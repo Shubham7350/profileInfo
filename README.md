@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">About Me</h3>  
 
-- I am really a highly enthusiastic person who is passionate about JavaScript front-end and back-end development. With a solid grasp of version control, I thrive in collaborative development environments. Continuously looking for Software Developer opportunities. View more about me here - [shubhamingole.me](https://shubhamingole.me/) and you can reach me to me at [ershubhamingole@gmail.com](mailto:ershubhamingole@gmail.com) .
+- I am really a highly enthusiastic person who is passionate about JavaScript front-end and back-end development. With a solid grasp of version control, I thrive in collaborative development environments. Continuously looking for Software Developer opportunities. View more about me here - [i9shubham.tech](https://i9shubham.tech/) and you can reach me to me at [ershubhamingole@gmail.com](mailto:ershubhamingole@gmail.com) .
 - Open to work with 💖 **JavaScript, TypeScript, React JS, Node.js, and C++** 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngoleShubham&langs_count=3&theme=radical) --->
